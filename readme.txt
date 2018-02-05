@@ -1,0 +1,1 @@
+This project was created following the tutorial at tutorial.djangogirls.org
